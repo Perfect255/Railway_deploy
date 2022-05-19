@@ -21,4 +21,4 @@ git clone https://github.com/S780821/Rock-Music-2 Github_Repo
 cd Github_Repo
 pip3 install -U -r requirements.txt
 _externals
-python3 main.py
+python3 __main__.py
